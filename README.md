@@ -1,6 +1,5 @@
 ## Me chamo Bruna, estou cursando ADS e meu foco é na área de Front-end.
 
-No momento estou aprendendo:
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
